@@ -1,5 +1,9 @@
 ### Oii! Eu sou a Ana Carolina 👋
 
+<ul>
+  <li>🏁 Em busca de uma oportunidade para trabalhar com Front-End.</li>
+  <li>⚛️ Estudando React.</li>
+</ul>
 <a href="https://github.com/anacrln">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anacrln&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacrln&layout=compact&langs_count=16&theme=radical"/>
@@ -10,7 +14,6 @@
   <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
    <img align="right" alt="Gatinho-cabelo-rosa-digitando" src="https://media.giphy.com/media/xH7Yh3DSNvn4k/giphy.gif" width="30%" height="30%">
 </div>
