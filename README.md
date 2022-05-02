@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Ana Carolina 👋
 
 <ul>
-  <li>🏁 Em busca de uma oportunidade para trabalhar com Front-End.</li>
+  <li>🏁 Estagiária na Original.io.</li>
   <li>⚛️ Estudando React.</li>
 </ul>
 <a href="https://github.com/anacrln">
