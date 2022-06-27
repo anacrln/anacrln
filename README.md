@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Ana Carolina 👋
 
 <ul>
-  <li>🏁 Estagiária na Original.io.</li>
+  <li>🏁 Estagiária no Clube do Malte 🍺.</li>
   <li>⚛️ Estudando React.</li>
 </ul>
 <a href="https://github.com/anacrln">
