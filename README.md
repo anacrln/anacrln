@@ -2,7 +2,6 @@
 
 <ul>
   <li>🏁 Estagiária no Clube do Malte 🍺.</li>
-  <li>⚛️ Estudando React.</li>
 </ul>
 <a href="https://github.com/anacrln">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anacrln&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
