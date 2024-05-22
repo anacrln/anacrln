@@ -1,7 +1,10 @@
 ### Oii! Eu sou a Ana Carolina 👋
 
 <ul>
-  <li>🏁 Estagiária no Clube do Malte 🍺.</li>
+  <li>🏁 Atuando como suporte Tech na Wake Commerce.</li>
+  <li>Experiência em montar e dar sustentaçãp em ecommerce's utilizando a plataforma da Wake</li>
+  <li>Conhecimentos em HTML, CSS, JS, Scriban, Versionamento de código, API Rest</li>
+  <li>Atualmente estou aprendendo .NET</li>
 </ul>
 <a href="https://github.com/anacrln">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anacrln&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
